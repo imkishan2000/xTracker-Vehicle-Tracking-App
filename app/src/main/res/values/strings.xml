@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">xTracker</string>
+    <string name="mainActivity_email">Enter your email</string>
+    <string name="mainActivity_login_textview">Login</string>
+    <string name="mainActivity_password">Enter your password</string>
+    <string name="mainActivity_login_btn">Submit</string>
+    <string name="adminLogin_textview">Admin Login</string>
+    <string name="admin_dashboard_register_newuser_btn">Register New User</string>
+    <string name="register_email">Enter User Email</string>
+    <string name="register_password">Enter User Password</string>
+    <string name="register_ownerName">Owner Name</string>
+    <string name="register_regNo">Vehicle Registration Number</string>
+    <string name="register_Model">Vehicle Model</string>
+    <string name="register_fuelCapacity">Fuel Type</string>
+    <string name="register_seating_capacity">Seating Capacity</string>
+    <string name="register_vehicle_color">Vehicle Color</string>
+    <string name="register_new_user_btn">Register User</string>
+    <string name="user_dashboard_name">Name?</string>
+    <string name="user_dashboard_regno">Registration Number?</string>
+    <string name="title_activity_admin_track_map">Map</string>
+    <string name="userdashboard_logoutBtn">Logout</string>
+    <string name="fuelUpdate_billNo">Bill Number</string>
+    <string name="fuelUpdate_price">Price/liter</string>
+    <string name="fuelUpdate_cost">Amount Cost</string>
+    <string name="fuelUpdate_saveBtn">"Save "</string>
+    <string name="service_update">Service Information</string>
+    <string name="serviceUpdate">Bill Number</string>
+    <string name="serviceUpdate_status">Status</string>
+    <string name="serviceUpdate_amount">Amount</string>
+    <string name="service_savedBtn">Save</string>
+    <string name="admin_FuelCheck">Fuel Details</string>
+    <string name="adminServiceCheck">Service Information</string>
+</resources>

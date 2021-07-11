@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902766135046",
+    "project_id": "xtracker-f6ac3",
+    "storage_bucket": "xtracker-f6ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902766135046:android:d345a6c47818c358db0087",
+        "android_client_info": {
+          "package_name": "com.victusvir.xtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902766135046-iqnkufihotsemp4d2bb401e55hh9tgsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneGPkgnm7wnVukVr6Uwdzo7DrtRLyd48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902766135046-iqnkufihotsemp4d2bb401e55hh9tgsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
